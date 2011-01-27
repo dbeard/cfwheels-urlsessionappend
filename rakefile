@@ -1,4 +1,4 @@
-#Rakefile for maxmindgeoip plugin for cfwheels
+#Rakefile for urlsessionappend plugin for cfwheels
 require 'rake/clean'
 CLEAN.include('build','index.cfm')
 
