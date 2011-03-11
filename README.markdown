@@ -17,3 +17,5 @@ History
 ------------
 
 Version 0.1 - Initial Release
+
+Version 0.2 - Better, more global way of doing this - through the urlfor method
